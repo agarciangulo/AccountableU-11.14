@@ -1,0 +1,5 @@
+{
+  "name": "AccountableU",
+  "description": "A personal goal-tracking app where you can define activities, set monthly goals, log daily progress, and visualize your progress on a monthly dashboard.",
+  "requestFramePermissions": []
+}
